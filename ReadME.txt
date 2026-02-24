@@ -1,4 +1,4 @@
-hoi dear
+Welcome to git-hub
 
-my twiter id is mrblacky rocky
+my Insta id is mrblacky rocky
 Name : Dinesh Thandapani
